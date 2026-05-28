@@ -34,4 +34,5 @@ I build systems that connect platforms, automate workflows, and keep businesses 
 
 ## Get in Touch
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-hazon.com.au-green?style=flat-square&logo=google-chrome)](https://www.hazon.com.au/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rachelletseng)
